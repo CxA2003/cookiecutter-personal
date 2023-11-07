@@ -1,0 +1,2 @@
+# The file types you include here from your project: {{ cookiecutter.project_title }}; won't be included when pushing via git
+
